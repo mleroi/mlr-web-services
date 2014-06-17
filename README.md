@@ -1,4 +1,4 @@
 mlr-web-services
 ================
 
-WordPress plugins that allows to handle JSON web services (REST or customized)
+WordPress plugin that allows to handle JSON web services (REST or customized)
